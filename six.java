@@ -4,7 +4,7 @@ public class six {
      public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("-ADJACENCY MATRIX CONSTRUCTION-\nby Laurence Kharl Devera");
+        
 
         System.out.print("Is the graph Directed? (yes/no): ");
         boolean isDirected = sc.nextLine().trim().equalsIgnoreCase("yes");
